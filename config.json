@@ -1,0 +1,6 @@
+{
+    "ITS_proxy": {
+        "ip": "localhost",
+        "port": 3000
+    }
+}

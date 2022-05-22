@@ -1,9 +1,9 @@
 {
-    "Data": [
+    "Dictionary":[
         {
             "id": 0,
             "name": "TEP",
-            "img": "temperature",
+            "img": "./src/icon/temperature.png",
             "unit": "℃",
             "value1": 10,
             "value2": 20,
@@ -14,7 +14,7 @@
         {
             "id": 1,
             "name": "HUM",
-            "img": "humidity",
+            "img": "./src/icon/humidity.png",
             "unit": "%",
             "value1": 50,
             "value2": 60,
@@ -25,7 +25,7 @@
         {
             "id": 2,
             "name": "PM25",
-            "img": "pm2.5",
+            "img": "./src/icon/pm2.5.png",
             "unit": "ug/m³",
             "value1": 35,
             "value2": 53,
@@ -36,7 +36,7 @@
         {
             "id": 3,
             "name": "HCHO",
-            "img": "hcho",
+            "img": "./src/icon/hcho.png",
             "unit": "ppm",
             "value1": 0.1,
             "value2": 0.5,
@@ -47,7 +47,7 @@
         {
             "id": 4,
             "name": "CO2",
-            "img": "co2",
+            "img": "./src/icon/co2.png",
             "unit": "ppm",
             "value1": 1000,
             "value2": 1200,
@@ -58,7 +58,7 @@
         {
             "id": 5,
             "name": "O3",
-            "img": "o3",
+            "img": "./src/icon/o3.png",
             "unit": "ppm",
             "value1": 0.164,
             "value2": 0.204,
